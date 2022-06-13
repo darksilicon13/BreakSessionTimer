@@ -1,0 +1,17 @@
+#timer-label {
+    color: white;
+    border: 5px solid #777;
+    border-radius: 20px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+}
+
+#timer-label p {
+    font-size: 50px;
+    margin-top: 0;
+}
+
